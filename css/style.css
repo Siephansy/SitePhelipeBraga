@@ -1,3 +1,6 @@
+/* Inside style.css */
+@import url("css/bootstrap.min.css");
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
