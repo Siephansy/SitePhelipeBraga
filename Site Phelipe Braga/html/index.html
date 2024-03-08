@@ -7,7 +7,50 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>Seu nome</h1>
-  <script src="js/script.js"></script>
+  <header>
+    <h1>Seu nome</h1>
+    <nav>
+      <a href="#">Portfólio</a>
+      <a href="#">Currículo</a>
+      <a href="#">Contato</a>
+    </nav>
+  </header>
+  <main>
+    <section id="sobre">
+      <h2>Sobre mim</h2>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium lectus. Fusce aliquam risus sit amet orci lacinia, a ultrices risus tincidunt. Nunc accumsan, nisl eget pulvinar ultricies, purus risus tincidunt lacus, eu tincidunt eros ipsum non nibh. Morbi quis ligula eget nibh faucibus ultrices. Donec sit amet lectus a risus luctus ultricies.
+      </p>
+    </section>
+    <section id="portfolio">
+      <h2>Portfólio</h2>
+      <ul>
+        <li>
+          <a href="#">
+            <img src="imagens/portfolio1.jpg" alt="Projeto 1">
+            <h3>Projeto 1</h3>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="imagens/portfolio2.jpg" alt="Projeto 2">
+            <h3>Projeto 2</h3>
+          </a>
+        </li>
+        </ul>
+    </section>
+    <section id="contato">
+      <h2>Contato</h2>
+      <form action="#">
+        <input type="text" placeholder="Nome">
+        <input type="email" placeholder="Email">
+        <textarea placeholder="Mensagem"></textarea>
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 - Seu nome</p>
+  </footer>
 </body>
 </html>

@@ -1,10 +1,84 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-  }
-  
-  h1 {
-    font-size: 2em;
-    margin-top: 0;
-  }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+/* Estilos para cada seção */
+header {
+  background-color: #eee;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header nav {
+  float: right;
+}
+
+header nav a {
+  margin-right: 10px;
+}
+
+#sobre {
+  padding: 20px;
+}
+
+#portfolio {
+  padding: 20px;
+}
+
+#portfolio ul {
+  list-style: none;
+  padding: 0;
+}
+
+#portfolio ul li {
+  display: inline-block;
+  margin: 10px;
+}
+
+#portfolio ul li a {
+  display: block;
+}
+
+#portfolio ul li img {
+  width: 200px;
+}
+
+#portfolio ul li h3 {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#contato {
+  padding: 20px;
+}
+
+#contato form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#contato form input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#contato form button {
+  background-color: #000
+}
