@@ -32,4 +32,21 @@ body {
     border: 1px solid #ddd;
     cursor: pointer;
   }
+
+  #btn-capture {
+    margin-left: 20px;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+
+  #btn-record {
+    margin-left: 30px;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+  
   
