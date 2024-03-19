@@ -39,6 +39,7 @@
                         <a href="./index.html"><img src="img/logo.png" alt=""></a>
                     </div>
                 </div>
+
                 <div class="col-lg-10">
                     <div class="header__nav__option">
                         <nav class="header__nav__menu mobile-menu">
@@ -73,6 +74,26 @@
     </header>
     <!-- Header End -->
 
+    <!-- Hero Section Begin -->
+    <section class="hero">
+        <div class="hero__slider owl-carousel">
+            <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="hero__text">
+                                <span>Phelipe Braga, mentor de startups e pessoas</span>
+                                <h2>Portfolio de impacto</h2>
+                                <a href="#" class="primary-btn">Veja mais aqui</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hero Section End -->
+
     <!-- Breadcrumb Begin -->
     <div class="breadcrumb-option spad set-bg" data-setbg="img/breadcrumb-bg.jpg">
         <div class="container">
@@ -82,6 +103,7 @@
                         <form action="/upload" method="post" enctype="multipart/form-data">
                             <input type="file" name="file" />
                             <button type="submit">Enviar</button>
+                            <script src="js/submit.js"></script>
                         </form>
                     </div>
                 </div>
@@ -89,6 +111,14 @@
         </div>
     </div>
     <!-- Breadcrumb End -->
+
+    <body onload="loadPosts()">
+        <h2>Google Storage API Test</h2>
+        <input type="file" name="imgfile" accept="image/jpeg" id="imgfile">
+        <button id="submitBtn" >Submit</button>
+        <div class="" id="images"></div>
+        <script src="js/submit.js"></script>
+    </body>
 
     <!-- Footer Section Begin -->
     <footer class="footer">
