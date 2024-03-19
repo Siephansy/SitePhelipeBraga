@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sagaproedtechltda",
+  "private_key_id": "8ea37b0fd8fc12fac69a2afee79a6852b099d8ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCKkPho4a5Fo9p8\nf0vXKERYoJCbq12K+9f1yMsdDUzpZAy+9rosAANRXqkBSUqNo8CDDBNmQHuzDGde\n6qf7I3Y71V+LsLlGAQGt7tM9uxPaBiqktv2KtGVLyeA+BWuwxXi1fGb9Bt6QV0z/\nC4hdNooLOtum9pjPZoxKaMCiCewzIFTBPGXkPi06S1ARo9zQY9hQpDaLuMS9wBZj\n6KFyyj228KM03vtesBxYpwEgBaaAtd4Pq9Cod+RWCR3yaGz08VKStigrM7cZKwPI\nMmomUSa4ChDksbrmLSed1Kh4SCCDfvBjFa6RtNpuoFgXfeFSnOOU5aHGIwPnNlA2\nmt70zmYBAgMBAAECggEAALDZzozCqkhGo7oy3BjlB/u7TNVDvDafKIKgf+cjdHc/\nYDJaaNkZ39bj8maMOt64+zAobiGTK1zaFgW7xAPpc26e/IfcSchDrcp14IBpHsd4\nNXxuEP3REqUZGXylm6cJUtHWkuapMKKBJBcU1cFth6Qn68bLIkxlnS/TZGLy7Med\nZpz0HRzuTrQqbTf61o+OJbYJNhc7BoOHEWAgeRD6ZoZlj9aVzFzL8TahRe94R4z9\nzcfYarTWRmtlJYhX9J8LyTaqMgLie+ePoPXk2fRRDlCpmxCDM5sK+i+g3OOGeGwF\ntIo1fHNvfwRCuVyNyvJDb6IEpk5qCvkBhu6l39AUcwKBgQC82os43f6HwX4l6ztU\nfvMk66uQ7RtoKVYvbXr0FVGjS/gJMzneL48EFQZbV7uv3VnLPP3lwD9Q5OYJA6jv\ns+Uf0AP/dMwoy5dkHBYu8TjCCP7csrV6Vlo7GvdGNBu2yjoOytELjpykwwSaI6cK\nB3BgWWHzZBXvk95qyqfnNZuCYwKBgQC71UT3Uy6QTcaKeVN+m5C7ESFndjelF+Lp\n06+uCxpO/b0CiTcP85mzZBwPjQkn0l2GJ4EIo8+N3yH+Mshe4tdKuw+Jf8u138II\nNS75uApCUEaDVgyiuwB8nNheMnKluf06kQfBlPsTsb6OzNZ3c7AeeLXEBVzWxTyK\n7cJbg4DxSwKBgC38MSZZt96qmOL20m2Ss/XrhM03TxMf7aKC0AubHVPb7bufw5l8\njyB5ViDrzgHWrkS0x0Yod8Jk2jabs4kajtIePrr3X7cXS/fOdwBbMGze7+Ahi9sM\nJ9B4knl/urfZqiVr8VcVFMNx0S8PO19PzGdJnHY9irHZmbD7Q8Mi5IjtAoGAQ+w8\nUz+WQAKQADUdd1QkAzGPpc0/FAlOOgYdqk9DhTsGZWtfKPqLIy7ZYto6bFcLEN8q\nLwilnoUI0tZkVMOs3M5GMQ+wh6VRkgxBX3Yo55AF36p3SUVcSLOjHnUZtkpKgyo8\n5sjL/nQxF4yFJY8FKg+2kxrpVpTebtLJjLRCJX8CgYB4KYDX3uPHqNcVGFu0q9SU\nqLOI86G/bWenrskam4RteIFRvibU6S5j+M/YMMnhpTM4qPlZVtk659cUAAUwgc4r\njDuXj4HrLYjk7unMM4e+9G9UIq8eRIyGZRV3Jr8JxPd5SURXWu3dzzle7fRTARjC\nwgJWqi9+W3G+k70I4Mpjqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "siteupload@sagaproedtechltda.iam.gserviceaccount.com",
+  "client_id": "103048146308690824347",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/siteupload%40sagaproedtechltda.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
